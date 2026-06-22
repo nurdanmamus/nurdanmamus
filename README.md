@@ -1,15 +1,30 @@
-### Hi there 👋 I'm Nurdan. 
+# Hi there 👋 I'm Nurdan Mamuş
 
+I'm a **Software Developer** focused on crafting robust and scalable backend systems. My core focus lies within the **.NET ecosystem**, distributed architectures, and clean code principles.
 
-#### 🌱 I'm currently learning object oriented programing with Asp.Net Core and C# programming language...
-#### 💡 I like to explore new technologies and learning programming...
-#### 📫 How to reach me: [![name](https://img.icons8.com/external-tal-revivo-color-tal-revivo/17/000000/external-linkedin-a-business-and-employment-oriented-service-mobile-app-logo-color-tal-revivo.png)](https://www.linkedin.com/in/nurdan-mamu%C5%9F-232a5510b/)
+---
 
-### 🛠  Tech Stack
-### ![image](https://camo.githubusercontent.com/134ba5ddb189484394bb06509697e69390933f5b214c64d19c48fb868aad8b1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465) ![image](https://camo.githubusercontent.com/f36a579a7440dd2cd03da4903249f86d0d44cb7020fd902512bccd139784b363/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465) ![image](https://camo.githubusercontent.com/771cc18a712bf9edb0925a86164c34b0d803c4d9177dd4467eff7b777109c723/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465) ![image](https://camo.githubusercontent.com/4bde567a4772f994f22418e4505a1ac8dc6e6219100251aa79b7279e02c8bb07/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465) ![image](https://camo.githubusercontent.com/154b109392c658875e8ae5fd94e79ab62f82341149424efc8eb0c1e59821725a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f53514c5f5365727665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d73716c2d736572766572266c6f676f436f6c6f723d7768697465)
+### 🚀 What I Do & Focus On
+*   **Architectures:** Designing scalable **Microservices** and applying **Domain-Driven Design (DDD)** principles.
+*   **Asynchronous Messaging:** Building resilient and event-driven systems using **RabbitMQ**.
+*   **Databases:** Writing optimized queries and managing relational data with **PostgreSQL** and **MS SQL Server**.
+*   **Best Practices:** Writing clean, maintainable code with a strong emphasis on OOP and architectural patterns.
 
+---
 
+### 🛠️ Tech Stack & Tools
 
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Frameworks** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white) |
+| **Architecture & Messaging** | ![Microservices](https://img.shields.io/badge/Microservices-blue?style=flat-square) ![DDD](https://img.shields.io/badge/DDD-green?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MS SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **Other Experiences** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
 
+---
 
+### 📫 Connect with Me
 
+Let's talk about software craftsmanship, microservices, or backend challenges!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurdan-mamus/)
